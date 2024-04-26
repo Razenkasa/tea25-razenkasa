@@ -1,0 +1,23 @@
+{
+  "name": "tea25-razenkasa",
+  "version": "1.0.1",
+  "description": "常用的表单验证",
+  "main": "validateForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Razenkasa/tea25-razenkasa.git"
+  },
+  "keywords": [],
+  "author": "Razenkasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razenkasa/tea25-razenkasa/issues"
+  },
+  "homepage": "https://github.com/Razenkasa/tea25-razenkasa#readme",
+  "dependencies": {
+    "zwbutils": "^1.0.4"
+  }
+}
